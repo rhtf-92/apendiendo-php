@@ -1,5 +1,5 @@
 <!-- IDENTIFICAR SI EL CUADRADO PERFECTO ES PAR O IMPAR -->
-<h1>EJERCICIO 02</h1>
+<h1>EJERCICIO 03</h1>
 <?php
     $cuadradoperfecto;
     $i;
