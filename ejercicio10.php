@@ -7,6 +7,7 @@
         // Verificar si se ha pasado un número por GET y es numérico, de lo contrario usar 5 como valor por defecto.
         if(isset($_GET["numero"]) && is_numeric($_GET["numero"])) {
             $numero =  $_GET["numero"];
+            
         }else{
             // Si no se ha pasado un número, asignar 5 por defecto.
             $numero = 5;

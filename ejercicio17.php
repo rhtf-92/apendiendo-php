@@ -1,4 +1,4 @@
-<!-- Crea una funcion que realice el calculo del factorial de un numero que le pasemos por parametro y a la vez el valor de ese parametro debe capturar a traves de un metodo get, ahorrando asi lineas de codigo. -->
+<!-- Crea una funcion que realice el calculo del factorial de un numero que le pasemos por parametro y a la vez el valor de ese parametro debe capturar a traves de un metodo GET, ahorrando asi lineas de codigo. -->
 <h1>EJERCICIO 17</h1>
 <?php
     // ejercicio17.php
